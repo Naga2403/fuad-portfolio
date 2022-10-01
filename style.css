@@ -3,5 +3,22 @@ section {
 }
 
 h1 {
+    font-weight: 60px;
+    color: blueviolet;
+}
+
+h3 {
+    font-weight: 30px;
+    color: rgb(13, 107, 189);
+}
+
+#sp-email {
+    color: brown;
     font-weight: 900;
+}
+
+img {
+    width: 80%;
+    padding: 20px;
+
 }
