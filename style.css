@@ -15,8 +15,15 @@ body {
     color: blueviolet;
 }
 
+p {
+    margin: 2%;
+    padding: 10px;
+    font-style: justify;
+}
+
 section {
     display: flex;
+    padding: 20px;
 }
 
 .half-width {
@@ -34,8 +41,9 @@ section {
     background-image: linear-gradient(red, blueviolet);
     text-decoration: none;
     padding: 10px 50px;
-    margin-left: 40%;
+    margin-left: 25%;
     color: azure;
+    border-radius: 10px;
 }
 
 .top-ban {
@@ -51,8 +59,9 @@ section {
     background-image: linear-gradient(rgb(36, 118, 121), blueviolet);
     text-decoration: none;
     padding: 10px 50px;
-    margin-left: 40%;
+    margin-left: 25%;
     color: rgb(234, 235, 184);
+    border-radius: 10px;
 }
 
 .bot-ban {
