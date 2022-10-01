@@ -3,7 +3,7 @@ section {
 }
 
 h1 {
-    font-weight: 60px;
+    font-weight: 300px;
     color: blueviolet;
 }
 
@@ -20,5 +20,10 @@ h3 {
 img {
     width: 80%;
     padding: 20px;
+}
 
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 50px;
 }
